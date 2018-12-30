@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+.row {
+  padding: 10px;
+}
+
+.list-group-item {
+  color: black;
+}
