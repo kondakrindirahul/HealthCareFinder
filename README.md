@@ -1,3 +1,6 @@
+## Link to App
+The app is hosted on Heroku and can be reached via [HealthCare Finder](https://healthcare-finder.herokuapp.com/#)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
